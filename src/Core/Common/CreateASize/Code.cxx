@@ -15,7 +15,7 @@
  *  limitations under the License.
  *
  *=========================================================================*/
-
+#include <iostream>
 #include "itkSize.h"
 
 int

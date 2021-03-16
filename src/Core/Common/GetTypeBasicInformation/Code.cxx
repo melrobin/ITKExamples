@@ -15,7 +15,7 @@
  *  limitations under the License.
  *
  *=========================================================================*/
-
+#include <iostream>
 #include "itkNumericTraits.h"
 
 int

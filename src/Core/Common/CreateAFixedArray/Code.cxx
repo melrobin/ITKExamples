@@ -17,7 +17,7 @@
  *=========================================================================*/
 
 #include "itkFixedArray.h"
-
+#include <iostream>
 int
 main(int, char *[])
 {
